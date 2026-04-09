@@ -133,7 +133,7 @@ Universal Authority |	Cross-pool liquidity mgmt without fund movement.
 
 SkinWalker Protocol	| Instant signature rotation upon counterparty breach.
 
-Fee Logic (SDK)	| Fixed 0.033% surcharge (33 BPS) / Zero slippage impact.
+Fee Logic | Dynamic 3.3 to 33 BPS surcharge / Zero slippage impact.
 
 _ _ _
 STATUS: GLOBAL ACTIVE
